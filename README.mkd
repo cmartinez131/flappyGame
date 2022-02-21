@@ -1,1 +1,5 @@
 
+Flappy bird Swift Project
+
+original source: https://github.com/fullstackio/FlappySwift
+https://github.com/fullstackio/FlappySwift
